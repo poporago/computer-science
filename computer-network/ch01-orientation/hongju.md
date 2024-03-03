@@ -1,6 +1,7 @@
 # Ch 01. Orientation
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 1. 네트워크 거시적으로 보기
 
 ### 1-1. 컴퓨터 네트워크란?
@@ -10,32 +11,47 @@
 ### 1-2. 인터넷이란?
 =======
 ## 네트워크 거시적으로 보기
+=======
+## 1. 네트워크 거시적으로 보기
+>>>>>>> cb29e4f (Add numbering to each heading)
 
-### 컴퓨터 네트워크란?
+### 1-1. 컴퓨터 네트워크란?
 
 - 여러 장치들이 서로 데이터(정보)를 주고받을 수 있는 통신망
 
+<<<<<<< HEAD
 ### 인터넷이란?
 >>>>>>> 40dd3ac (Add '네트워크 거시적으로 보기' part)
+=======
+### 1-2. 인터넷이란?
+>>>>>>> cb29e4f (Add numbering to each heading)
 
 - 네트워크의 네트워크
 - 'Interconnected (different) computer newtorks'
 - 인터넷 프로토콜 스위트(TCP/IP) 활용
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### 1-3. 컴퓨터 네트워크 구성 요소
 =======
 ### 컴퓨터 네트워크 구성 요소
 >>>>>>> 40dd3ac (Add '네트워크 거시적으로 보기' part)
+=======
+### 1-3. 컴퓨터 네트워크 구성 요소
+>>>>>>> cb29e4f (Add numbering to each heading)
 
 - 노드와 간선 (그래프 구조)
 - 메시지
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### 1-3-1. 노드
 =======
 #### 노드
 >>>>>>> 40dd3ac (Add '네트워크 거시적으로 보기' part)
+=======
+#### 1-3-1. 노드
+>>>>>>> cb29e4f (Add numbering to each heading)
 
 - 종단 시스템(End-system), **호스트** 등
 - 주고받을 메시지를 최초로 송신/수신 하는 대상(주체)
@@ -43,20 +59,28 @@
 - 주소를 통해 호스트(위치)를 특정
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##### 1-3-1-1. 캐스팅 종류
 =======
 ##### 캐스팅 종류
 >>>>>>> 40dd3ac (Add '네트워크 거시적으로 보기' part)
+=======
+##### 1-3-1-1. 캐스팅 종류
+>>>>>>> cb29e4f (Add numbering to each heading)
 
 - 유니캐스트 - Send to one
 - 멀티캐스트 - Send to group
 - 브로드캐스트 - Send to all
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##### 1-3-1-2. 서버-클라이언트
 =======
 ##### 서버-클라이언트
 >>>>>>> 40dd3ac (Add '네트워크 거시적으로 보기' part)
+=======
+##### 1-3-1-2. 서버-클라이언트
+>>>>>>> cb29e4f (Add numbering to each heading)
 
 - 호스트는 **서버**와 **클라이언트**로 구분됨
 - 클라이언트: 요청을 보내는 호스트
@@ -67,32 +91,45 @@
   - 예시: 스마트폰은 보통 클라이언트지만 언제든지 서버가 될 수 있음
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##### 1-3-1-3. 중간 노드
 =======
 ##### 중간 노드
 >>>>>>> 40dd3ac (Add '네트워크 거시적으로 보기' part)
+=======
+##### 1-3-1-3. 중간 노드
+>>>>>>> cb29e4f (Add numbering to each heading)
 
 - 네트워크 장비: 라우터, 스위치, 공유기 등
 - 호스트와 완벽하게 배타적인 개념이 아님
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### 1-3-2. 간선 (통신 링크/매체)
 =======
 #### 간선 (통신 링크/매체)
 >>>>>>> 40dd3ac (Add '네트워크 거시적으로 보기' part)
+=======
+#### 1-3-2. 간선 (통신 링크/매체)
+>>>>>>> cb29e4f (Add numbering to each heading)
 
 - 유선 케이블: Twisted Pair Cable, 광케이블 등
 - 무선: 와이파이, 블루투스 등
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### 1-3-3. 메시지
 =======
 #### 메시지
 >>>>>>> 40dd3ac (Add '네트워크 거시적으로 보기' part)
+=======
+#### 1-3-3. 메시지
+>>>>>>> cb29e4f (Add numbering to each heading)
 
 - HTML, CSS, JavaScript 등 웹 자원
 - 텍스트, 사진, 동영상 등 멀티미티어 자원
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ### 1-4. 컴퓨터 네트워크 구분
 
@@ -102,15 +139,24 @@
 
 #### Local Area Network
 >>>>>>> 40dd3ac (Add '네트워크 거시적으로 보기' part)
+=======
+### 1-4. 컴퓨터 네트워크 구분
+
+#### 1-4-1. Local Area Network
+>>>>>>> cb29e4f (Add numbering to each heading)
 
 - 근거리를 연결한 네트워크
 - 소규묘 가정/사무실 등
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### 1-4-2. Wide Area Network
 =======
 #### Wide Area Network
 >>>>>>> 40dd3ac (Add '네트워크 거시적으로 보기' part)
+=======
+#### 1-4-2. Wide Area Network
+>>>>>>> cb29e4f (Add numbering to each heading)
 
 - 원거리를 연결한 네트워크
 - 대표적으로 **인터넷**
