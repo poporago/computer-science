@@ -1,5 +1,6 @@
 # Ch 02. Network Access Layer
 
+<<<<<<< HEAD
 - OSI 모델의 1계층과 2계층에 대응되는 계층
 - `[주의]` **동일**이 아닌 **유사**의 개념
 - LAN 환경에서 데이터를 주고받는 규칙이 주로 정의되어 있는 계층
@@ -193,3 +194,10 @@
 
 - MAC 주소를 기반으로 임의의 VLAN을 구성하는 방법
 - 임의의 MAC 주소와 매핑되는 VLAN 정보를 테이블 형태로 관리
+=======
+## 1. 이더넷
+
+## 2. 허브와 CSMA/CD
+
+## 3. 스위치와 VLAN
+>>>>>>> 09507c4 (Add headings to ch02/03 within computer newtork)

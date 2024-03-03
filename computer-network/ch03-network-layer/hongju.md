@@ -1,5 +1,6 @@
 # Ch 03. Network Layer
 
+<<<<<<< HEAD
 - 물리 계층과 데이터 링크 계층은 LAN에 국한된 계층
   - 단, '이더넷'으로 WAN 통신이 불가능한 것은 아님
 - 본 계층은 **LAN 간의 통신**을 가능하게 해주는 계층
@@ -91,6 +92,9 @@
 - `0000:aaaa:bbbb:3333:1234:ffff:0000:2asd` 같은 IPv6 주소 값이 담기는 필드
 - 각 16바이트(128비트)의 크기
 - ...
+=======
+## 1. IP
+>>>>>>> 09507c4 (Add headings to ch02/03 within computer newtork)
 
 ## 2. ARP
 
